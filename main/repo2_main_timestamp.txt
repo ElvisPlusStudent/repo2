@@ -1,4 +1,0 @@
-Repository: repo2
-Branch: main
-Timestamp: 2023-10-22 03:20:48
-Changes: 4a87630 - Update timestamp file for repo2 on branch main
