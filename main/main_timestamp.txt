@@ -1,3 +1,0 @@
-Repository: E:\pythonProgs\repos\repo2\.git
-Branch: main
-Timestamp: 2023-10-22 02:49:38
